@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    background-color: #272D33;
+    text-align: center;
+    padding: 13px;
+    color: White;
+}
+
+div {
+    font-family: Helvetica;
+    background-color: #272D33;
+    color: white;
+    font-size:32px;
+    padding:5px;
+}
+
+
+
+#gaming_pc{
+    width: 200px;
+
+}
+
+#big_div{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.items:hover{
+    background-color: grey;
+    opacity: 0.5;
+}
+
+a{
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+}
